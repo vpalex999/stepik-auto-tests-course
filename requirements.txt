@@ -1,5 +1,6 @@
 selenium==3.14.0
 pytest
+pytest-rerunfailures
 
 flake8
 autopep8
